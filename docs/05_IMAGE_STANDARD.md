@@ -94,8 +94,6 @@ WebP
 مانند:
 
 - Vazirmatn
-- IRANSansX
-- Estedad
 
 ---
 
